@@ -1,2 +1,0 @@
-# RestaurantMVC
-First MVC application
